@@ -1,6 +1,6 @@
 
 ### Hello World! ![hi](https://user-images.githubusercontent.com/41128227/115701817-7af90b00-a368-11eb-8e8c-8a27e3c02810.gif)
- 📫 How to reach me: @(www.linkedin.com/in/mosa-letswalo)
+ 📫 How to reach me: www.linkedin.com/in/mosa-letswalo
 <!--
 **tomosaHub/tomosaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: @(www.linkedin.com/in/mosa-letswalo)
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
