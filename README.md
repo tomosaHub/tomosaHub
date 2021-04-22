@@ -4,8 +4,7 @@
 I'm currently a final year student in Computer Science, an aspiring Data Scientist and Software Developer.
 This are some of the technologies I enjoy working with python,ReactJS,C#.
 
- 📫 How to reach me: www.linkedin.com/in/mosa-letswalo
- 📫 How to reach me: letswalomosa@gmail.com
+ 📫 How to reach me: www.linkedin.com/in/mosa-letswalo | letswalomosa@gmail.com
 
 ⚡ Fun fact: **Android > IOs | Free and Open Source.**
 
